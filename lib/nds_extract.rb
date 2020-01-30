@@ -37,7 +37,7 @@ end
 def total_gross(source)
 
 # 1. directors_totals: returns a Hash of { dir_name => gross }
-director_earn_hash = director_totals(source)
+director_earn_hash = directors_totals(source)
 
 # 2. list_of_directors: names provides an Array of directors names
 ## Array of directors
