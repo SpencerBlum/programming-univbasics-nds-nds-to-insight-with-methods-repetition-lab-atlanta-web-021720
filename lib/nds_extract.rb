@@ -31,7 +31,7 @@ index = 0
     new_array << source[i][:name]
     index += 1
   end
-
+new_array
 
 
 
