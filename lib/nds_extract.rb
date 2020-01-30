@@ -27,13 +27,13 @@ end
 def list_of_directors(source)
 pp source
 
-# new_array = []
-# index = 0
-#   while i < source.length do
-#     new_array << source[i][:name]
-#     index += 1
-#   end
-# new_array
+new_array = []
+index = 0
+  while i < source.length do
+    new_array << source[i][:name]
+    index += 1
+  end
+new_array
 
 
 end
